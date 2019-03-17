@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.exe.config
+C:\Users\user\Desktop\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.exe
+C:\Users\user\Desktop\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.pdb
+C:\Users\user\Desktop\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.csprojAssemblyReference.cache
+C:\Users\user\Desktop\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.exe
+C:\Users\user\Desktop\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.pdb
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.exe
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.pdb
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.exe.config
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.exe
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.pdb

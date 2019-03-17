@@ -1,0 +1,20 @@
+C:\Users\Антон\Desktop\flash\!!!!2013\ПиАПС\практики с#\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.exe.config
+C:\Users\Антон\Desktop\flash\!!!!2013\ПиАПС\практики с#\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.exe
+C:\Users\Антон\Desktop\flash\!!!!2013\ПиАПС\практики с#\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.pdb
+C:\Users\Антон\Desktop\flash\!!!!2013\ПиАПС\практики с#\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\flash\!!!!2013\ПиАПС\практики с#\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.exe
+C:\Users\Антон\Desktop\flash\!!!!2013\ПиАПС\практики с#\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.pdb
+C:\Users\user\Desktop\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.exe.config
+C:\Users\user\Desktop\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.exe
+C:\Users\user\Desktop\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.pdb
+C:\Users\user\Desktop\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.exe
+C:\Users\user\Desktop\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.pdb
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.exe.config
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.exe
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.pdb
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.exe
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.pdb
